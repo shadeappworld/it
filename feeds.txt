@@ -1,4 +1,4 @@
-https://www.reddit.com/r/technology.xml
+https://cdn.mysitemapgenerator.com/shareapi/rss/2311847517
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-6OW5aJYBFM33zXQlBKPNA
 https://www.theverge.com/rss/tech/index.xml
 https://css-tricks.com/feed/
