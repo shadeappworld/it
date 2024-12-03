@@ -1,6 +1,6 @@
 {
-  "name": "PWA Name",
-  "short_name": "PWA Name",
+  "name": "Shade It",
+  "short_name": "Shade It",
   "start_url": "/index.html",
   "scope": "/",
   "display": "standalone",
@@ -9,42 +9,42 @@
   "orientation": "any",
   "icons": [
     {
-      "src": "/icons/icon-72x72.png",
+      "src": "/icons/InShot_20241203_145747808.jpg",
       "type": "image/png", "sizes": "72x72",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-96x96.png",
+      "src": "/icons/InShot_20241203_145747808.jpg",
       "type": "image/png", "sizes": "96x96",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-128x128.png",
+      "src": "/icons/InShot_20241203_145747808.jpg",
       "type": "image/png","sizes": "128x128",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-144x144.png",
+      "src": "/icons/InShot_20241203_145747808.jpg",
       "type": "image/png", "sizes": "144x144",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-152x152.png",
+      "src": "/icons/InShot_20241203_145747808.jpg",
       "type": "image/png", "sizes": "152x152",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-192x192.png",
+      "src": "/icons/InShot_20241203_145747808.jpg",
       "type": "image/png", "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-384x384.png",
+      "src": "/icons/InShot_20241203_145747808.jpg",
       "type": "image/png", "sizes": "384x384",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-512x512.png",
+      "src": "/icons/InShot_20241203_145747808.jpg",
       "type": "image/png", "sizes": "512x512",
       "purpose": "any"
     }
